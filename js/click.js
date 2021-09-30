@@ -8,11 +8,14 @@ function openGroup() {
     window.open('https://chat.whatsapp.com/DJEihZIBRg43ixkiHGwRQe', '_blank')
 }
 function openOwner() {
-    window.open('https://api.whatsapp.com/send?phone=8616740842979&text=Halo owner DaBotz', '_blank')
+    window.open('https://api.whatsapp.com/send?phone=8616740842979&text=Halo owner Darkness-Bot', '_blank')
 }
 function openEvent() {
-    window.open('https://api.whatsapp.com/send?phone=62857126693291&text=!awgjkz', '_blank')
+    window.open('https://api.whatsapp.com/send?phone=62857126693291&text=!update', '_blank')
 }
 function openBackup() {
     window.open('https://api.whatsapp.com/send?phone=6285938633653&text=!help', '_blank')
+}
+function openGit() {
+    window.open('https://github.com/Darkness632', '_blank')
 }
