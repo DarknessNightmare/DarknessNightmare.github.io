@@ -5,7 +5,7 @@ function openIg() {
     window.open('https://www.instagram.com/dxd.darkness', '_blank')
 }
 function openGroup() {
-    window.open('https://chat.whatsapp.com/DJEihZIBRg43ixkiHGwRQe', '_blank')
+    window.open('https://chat.whatsapp.com/C8zF7DzEQzp3kusNza2Tgj', '_blank')
 }
 function openOwner() {
     window.open('https://api.whatsapp.com/send?phone=8616740842979&text=Halo owner Darkness-Bot', '_blank')
