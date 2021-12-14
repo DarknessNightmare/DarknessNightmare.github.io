@@ -26,5 +26,5 @@ function openHal2() {
     window.open('https://darkness632.github.io/index2.html', '_blank')
 }
 function openMap() {
-    window.open('https://darkness632.github.io', '_blank')
+    window.open('https://darknessnightmare.github.io', '_blank')
 }
