@@ -23,7 +23,7 @@ function openRep() {
     window.open('https://api.whatsapp.com/send?phone=6285938633653&text=Bang Mau Lapor Ada Yang Eror', '_blank')
 }
 function openHal2() {
-    window.open('https://darkness632.github.io/index2.html', '_blank')
+    window.open('https://darknessnightmare.github.io/index2.html', '_blank')
 }
 function openMap() {
     window.open('https://darknessnightmare.github.io', '_blank')
