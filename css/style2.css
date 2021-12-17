@@ -3,7 +3,7 @@ body{
 }
 #button{
     max-width: 300px;
-    width: 210px;
+    width: 200px;
     height: 50px;
     padding: 3px;
     margin: auto;
@@ -23,7 +23,7 @@ body{
 
 #button2{
     max-width: 200px;
-    width: 81px;
+    width: 78px;
     height: 30px;
     padding: 3px;
     background-color: #02e777;
@@ -42,7 +42,7 @@ body{
 
 #button3{
     max-width: 300px;
-    width: 210px;
+    width: 200px;
     height: 50px;
     padding: 3px;
     margin: auto;
@@ -59,35 +59,4 @@ body{
     font-weight: bold;
     line-height: 1.25;
     cursor: pointer;
-}
-#wrapper{
-width: 875px;
-margin-right: auto;
-margin-left: auto;
-}
-.tabel {
-margin-left:20px;
-width: 700x;
-padding: 10px;
-border-radius: 12px;
-border: 3px solid rgb(0,0,51);
-}
-#judul{
-background-color: rgb(111,178,208);
-padding: 1em;
-text-align: center;
-}
-#title {
-color: rgb(0,0,0);
-width: 550px;
-margin: 0px 10px;
-padding-top: 1px;
-font-size: 18px;
-}
-table{
-background-color: rgb(200,200,200);
-}
-td{
-border: rgb(192,192,192);
-font-weight: bold;
 }
