@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Balloons clicking game!</title>
+    <!-- import google font -->
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
+    <!-- import jquery -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+    <div id="board" >
+        <strong id="text" ><span>Score: </span><span id="score">0</span></strong>
+        <br>
+        <span id="timer" class="">30</span>
+        <br>
+        <div id="start" class="button" onClick="startGame()" ontouchstart="startGame()">Start Game</div>
+    </div>
+    <div id="container"></div>
+    <script src="./index.js"></script>
+</body>
+</html>
